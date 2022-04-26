@@ -15,7 +15,7 @@
 2. 2개의 set로 구성
 3. 합집합(union) / 교집합(intersection) 결과 출력
 
-### 🌱 fibonacci number 🌱
+### 🌱 fibonacci number (담당 : 이효은) 🌱
 1. 생성할 fibonacci number 입력
 2. fibonacci 수열 전체 출력
 3. Fn 피보나치 최종 수 출력
